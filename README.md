@@ -1,6 +1,6 @@
-# rxportal
+# RxPortal Template
 
-RxPortal Template
+
 
 
 Just a simple placeholder template for RxPortal until it
@@ -13,7 +13,6 @@ Search Form:
 
 	The search form won't actually do anything (other than report back with a "search successful" message)
 	until you tie it to your own hosted solution.
-	In either case, there are two ways to go:
 
 
 Slideshow Background:
